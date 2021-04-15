@@ -1,0 +1,14 @@
+@import "reset";
+@import "fonts/fonts";
+@import "components/img-box";
+@import "animation-loading";
+
+
+.app{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Open Sans - Semibold";
+  margin-top: 10%;
+}
